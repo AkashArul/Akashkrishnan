@@ -780,6 +780,11 @@ a:hover {
   height: 0.7rem;
   background-color: #0078ff;
 }
+.progress-moved .progress-bar2 {
+  width: 85%; 
+  background-color: #EF476F;  
+  animation: progressAnimation 6s;
+}
 
 /*--------------------------------------------------------------
 # Services
